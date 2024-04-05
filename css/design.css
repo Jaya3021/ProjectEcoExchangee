@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+.row{
+    display: inline-flex;
+    width: 100%;
+}
+.row div{
+    display: inline;
+}
